@@ -1,0 +1,5 @@
+{
+  "name": "Nifty Signal Dashboard",
+  "description": "Real-time Nifty 50 and BankNifty dashboard with EMA crossovers, candlestick charts, and automated BUY/SELL signals.",
+  "requestFramePermissions": []
+}
